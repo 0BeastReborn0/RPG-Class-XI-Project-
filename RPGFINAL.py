@@ -2,7 +2,7 @@
 """
 Created on Mon Dec 13 22:34:25 2021
 
-@author: Prakhar Bhatnagar
+@author: Utkarsh Sharma
 """
 
 
@@ -44,11 +44,11 @@ print('''
 print("It's the 16th century, the world seems to be in a turmoil... ever since the formation of the mysterious crevices, humanity ceases to exist. As the last remaining 'Knight Of Oblivion' will you be the glimmer of hope and shine bright or get consumed by the void of this dark world?.........")
 
 print('''
-    〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+    〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
     /                                                                       /
    /               "YOUR CHOICES AFFECT THE PATH OF THE GAME"              /                                   
   /                                                                       /  
- 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+ 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
 ''')
 
 input("Press Enter to continue...")
